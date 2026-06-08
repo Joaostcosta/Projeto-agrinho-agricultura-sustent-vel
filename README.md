@@ -1,4 +1,4 @@
-# Projeto-agrinho-agricultura-sustentvel
+
 # 🌱 Semeando o Futuro - Agricultura Familiar
 
 <p align="center">
